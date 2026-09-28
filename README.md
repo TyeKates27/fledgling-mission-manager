@@ -65,6 +65,12 @@ The deployed application is available at:
 
 https://fledgling-mission-manager.netlify.app/
 
+## Demo Video
+
+Watch the 3–5 minute project demonstration on YouTube:
+
+https://youtu.be/92WEsfVk24g
+
 ## Author
 
 Tye Kates
